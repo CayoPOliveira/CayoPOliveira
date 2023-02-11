@@ -4,8 +4,15 @@ Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou um estudante de Engenharia 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CayoPhellipe&theme=dracula&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true&custom_title=CayoPhellipe)
 
-## Projetos
+## Habilidades
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoPhellipe&theme=dracula&langs_count=10&layout=compact)](https://github.com/CayoPhellipe/)
+
+## Principais Projetos
+
+<a href="https://github.com/CayoPhellipe/Beecrowd-Marathon-Training">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=Beecrowd-Marathon-Training&theme=dracula" />
+</a>
 <a href="https://github.com/CayoPhellipe/Data_Structures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=Data_Structures_Louza&theme=dracula" />
 </a>
@@ -18,6 +25,24 @@ Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou um estudante de Engenharia 
 <a href="https://github.com/CayoPhellipe/BWTC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=BWTC&theme=dracula" />
 </a>
+<a href="https://github.com/CayoPhellipe/PAA-Works">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=PAA-Works&theme=dracula" />
+</a>
+<a href="https://github.com/CayoPhellipe/TWM-ReactComponents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=TWM-ReactComponents&theme=dracula" />
+</a>
+<a href="https://github.com/CayoPhellipe/SEMB1-BareMetalEnvironment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=SEMB1-BareMetalEnvironment&theme=dracula" />
+</a>
+<a href="https://github.com/CayoPhellipe/Navbar-JQuery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=Navbar-JQuery&theme=dracula" />
+</a>
+<a href="https://github.com/CayoPhellipe/WA-ProjetoSeguros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=WA-ProjetoSeguros&theme=dracula" />
+</a>
+<a href="https://github.com/CayoPhellipe/TWM-Aulas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=TWM-Aulas&theme=dracula" />
+</a>
 <a href="https://github.com/CayoPhellipe/TWM-FirstReactClass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=TWM-FirstReactClass&theme=dracula" />
 </a>
@@ -27,10 +52,6 @@ Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou um estudante de Engenharia 
 <a href="https://github.com/CayoPhellipe/WFAProjetoSeguros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=WFAProjetoSeguros&theme=dracula" />
 </a>
-
-## Habilidades
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoPhellipe&theme=dracula&langs_count=10&layout=compact)](https://github.com/CayoPhellipe/)
 
 ## Educação
 
