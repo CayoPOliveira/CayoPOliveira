@@ -10,8 +10,8 @@ Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou um estudante de Engenharia 
 
 ## Principais Projetos
 
-<a href="https://github.com/CayoPhellipe/Beecrowd-Marathon-Training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=Beecrowd-Marathon-Training&theme=dracula" />
+<a href="https://github.com/CayoPhellipe/Marathon-Training">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=Marathon-Training&theme=dracula" />
 </a>
 <a href="https://github.com/CayoPhellipe/Data_Structures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPhellipe&repo=Data_Structures_Louza&theme=dracula" />
