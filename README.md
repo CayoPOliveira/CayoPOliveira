@@ -36,8 +36,6 @@ Obrigado por visitar meu perfil! Estou ansioso para colaborar e compartilhar con
 <a href="https://github.com/CayoPOliveira/BWTC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=BWTC&theme=dracula" />
 </a>
-<a href="https://github.com/CayoPOliveira/SetsMD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=SetsMD&theme=dracula" />
 </a>
 <a href="https://github.com/CayoPOliveira/Marathon-Training">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=Marathon-Training&theme=dracula" />
