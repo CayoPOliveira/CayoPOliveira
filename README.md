@@ -26,7 +26,7 @@ Obrigado por visitar meu perfil! Estou ansioso para colaborar e compartilhar con
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoPOliveira&theme=dracula&langs_count=10&layout=compact)](https://github.com/CayoPOliveira/)
 
 ## Principais Projetos
-
+<!--
 <a href="https://github.com/CayoPOliveira/MaxRepeats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=MaxRepeats&theme=dracula" />
 </a>
@@ -43,3 +43,4 @@ Obrigado por visitar meu perfil! Estou ansioso para colaborar e compartilhar con
 <a href="https://github.com/CayoPOliveira/SuffixArray">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=SuffixArray&theme=dracula" />
 </a>
+/>
