@@ -16,7 +16,7 @@ Sou uma pessoa comunicativa, que gosta de trabalhar em equipe. Atualmente estou 
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white&scale=0.5)](cayoproliveira@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white&scale=0.5)](mailto:cayoproliveira@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&scale=0.5)](https://www.linkedin.com/in/cayoproliveira/)
 
 Obrigado por visitar meu perfil! Estou ansioso para colaborar e compartilhar conhecimento com a comunidade de desenvolvedores.
