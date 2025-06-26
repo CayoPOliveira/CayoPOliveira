@@ -1,46 +1,92 @@
 # Cayo Phellipe Ramalho de Oliveira
 
-Olá, seja bem-vindo ao meu perfil do GitHub! Eu sou um estudante de Engenharia de Computação e desenvolvedor. Você pode encontrará alguns dos meus projetos e repositórios que desenvolvi ao longo do tempo.
+[![Email](https://img.shields.io/badge/Email-cayoproliveira@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cayoproliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CayoPOliveira-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayoproliveira/)
 
-Comecei meus estudos em Engenharia Biomédica onde tive meus primeiros contatos com programação, participei do PET Engenharia Biomédica onde aprendi a trabalhar em equipe e desenvolvi pesquisa com algoritmos para indexação de textos. 
-Em 2022 transferi para Engenharia da Computação quando percebi que gostaria de trabalhar como desenvolvedor e realizei minha pesquisa com estruturas de dados para dados não relacionais.
+### Software Engineer · M.Sc. Student in Computer Science @ UFU  
+### Development Analyst II @ [fazer.ai](https://www.fazer.ai/)
 
-Sou uma pessoa comunicativa, que gosta de trabalhar em equipe. Atualmente estou estudando e me aprimorando para me tornar um desenvolvedor devops.
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CayoPOliveira&theme=dracula&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true&custom_title=CayoPOliveira)
+## 👨‍💻 About Me
 
-## Educação
+Hi, I'm Cayo Phellipe, a passionate software engineer with a strong background in system development, artificial intelligence, and academic research. I enjoy solving complex problems, designing robust applications, and continuously exploring new technologies.
 
-### (*2019 - Atualmente*) Bacharelado em Engenharia de Computação 
-*Universidade Federal de Uberlândia*
+I currently work as a **Development Analyst II** at [fazer.ai](https://www.fazer.ai/), where I contribute to the development of scalable APIs, automation solutions, and intelligent integrations focused on customer engagement.
 
-## Contato
+In parallel, I'm pursuing a **Master’s degree in Computer Science** at the **Faculty of Computing (FACOM)** of the **Federal University of Uberlândia (UFU)**, focusing on intelligent systems and optimization techniques. I hold a **Bachelor’s degree in Computer Engineering** from UFU, completed in 2024.
 
-[![Gmail](https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white&scale=0.5)](mailto:cayoproliveira@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&scale=0.5)](https://www.linkedin.com/in/cayoproliveira/)
+---
 
-Obrigado por visitar meu perfil! Estou ansioso para colaborar e compartilhar conhecimento com a comunidade de desenvolvedores.
+## 🚀 Featured Projects
 
-## Habilidades
+- 🔧 [**brafis**](https://github.com/fazendatech/brafis)  
+  Internal framework for scalable and configurable API development, used in multiple fazer.ai projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CayoPOliveira&theme=dracula&langs_count=5&layout=compact)](https://github.com/CayoPOliveira/)
+- 💬 [**chatwoot**](https://github.com/fazer-ai/chatwoot)  
+  Fork of Chatwoot with support for custom WhatsApp providers using Baileys integration and event-driven architecture.
 
-## Principais Projetos
-<!--
-<a href="https://github.com/CayoPOliveira/MaxRepeats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=MaxRepeats&theme=dracula" />
+- 📲 [**baileys-api**](https://github.com/fazer-ai/baileys-api)  
+  API built with ElysiaJS and Baileys for WhatsApp automation and message processing.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:**  
+Ruby, TypeScript, JavaScript, Python, C++, C
+
+**Frameworks & Libraries:**  
+Node.js, Bun, Ruby on Rails, ElysiaJS, Vue.js
+
+**Testing & Code Quality:**  
+Jest, RSpec, Biome
+
+**DevOps & Databases:**  
+Git, Docker, Linux, PostgreSQL, Redis
+
+**AI & Data Science:**  
+YOLO, TensorFlow, Triton, Scikit-learn, NumPy, Pandas
+
+**Other Tools:**  
+REST APIs, Webhooks, JSON, PFX/PEM certificates, Brazilian NF-e Systems
+
+---
+
+## 🧠 Interests
+
+- Backend Development  
+- API Design & Integration  
+- Artificial Intelligence & Machine Learning  
+- Computer Vision
+
+---
+
+## 📚 Education
+
+- 🎓 **M.Sc. in Computer Science**  
+  Faculty of Computing – Federal University of Uberlândia (UFU)  
+  *2025 – Present*
+
+- 🎓 **B.Sc. in Computer Engineering**  
+  Federal University of Uberlândia (UFU)  
+  *Graduated in 2024*
+
+---
+
+## 🏅 GitHub Highlights
+
+<a href="https://github.com/CayoPOliveira">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CayoPOliveira&theme=dracula&count_private=true&show=reviews,,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=CayoPOliveira&hide=stars&rank_icon=github" />
 </a>
-<a href="https://github.com/CayoPOliveira/FromNAND2Tetris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=FromNAND2Tetris&theme=dracula" />
+<a href="https://github.com/CayoPOliveira">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoPOliveira&theme=dracula&langs_count=5&layout=compact&card_width=320" />
 </a>
-<a href="https://github.com/CayoPOliveira/BWTC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=BWTC&theme=dracula" />
-</a>
-</a>
-<a href="https://github.com/CayoPOliveira/Marathon-Training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=Marathon-Training&theme=dracula" />
-</a>
-<a href="https://github.com/CayoPOliveira/SuffixArray">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CayoPOliveira&repo=SuffixArray&theme=dracula" />
-</a>
-/>
+
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CayoPOliveira&theme=dracula&rank=SSS,SS,S,AAA,AA,A&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CayoPOliveira&theme=dracula)
